@@ -14,8 +14,8 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com/adizenless/Arfeelings",
-    demo: "https://note-editing-app.vercel.app/",
+    github: "https://github.com/adizenless/Arfeelings-en",
+    demo: "https://arfeelings-en.vercel.app/",
   },
   2: {
     title: "Ai Questionary App Chat with Companion",
@@ -28,8 +28,8 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com/adizenless/Ai-questionary",
-    demo: "https://aiquestionary.vercel.app/",
+    github: "https://github.com/adizenless/Ai-questionary-en",
+    demo: "https://ai-questionary-en.vercel.app/",
   },
   3: {
     title: "Nongside Social Media App",
