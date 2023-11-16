@@ -4,46 +4,46 @@ import projectThree from "../assets/project-3.png";
 
 const projects = {
   1: {
-    title: "SoMe Platform",
+    title: "Arfeelings Note Editing App",
     image: projectOne,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Arfeelings Note Editing App is a user-friendly and feature-rich mobile
+          application designed to enhance your note-taking experience.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/adizenless/Arfeelings",
+    demo: "https://note-editing-app.vercel.app/",
   },
   2: {
-    title: "Productivity App",
+    title: "Ai Questionary App Chat with Companion",
     image: projectTwo,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          The AI Questionary App "Chat with Companion" is your interactive and
+          intelligent companion for engaging and insightful conversations.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/adizenless/Ai-questionary",
+    demo: "https://aiquestionary.vercel.app/",
   },
   3: {
-    title: "Food Delivery App",
+    title: "Nongside Social Media App",
     image: projectThree,
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Nongside Social Media App is a vibrant and inclusive platform designed
+          to connect users in a unique and meaningful way.
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+    github: "https://github.com/adizenless/Nongside",
+    demo: "https://nongside.vercel.app/",
   },
 };
 

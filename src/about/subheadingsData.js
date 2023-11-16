@@ -5,8 +5,9 @@ const subheadingsData = {
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Hello there! I'm Adi, a dedicated and enthusiastic web developer
+            with a knack for turning innovative ideas into immersive online
+            experiences. With a strong foundation in web development.
           </p>
         </>
       ),
@@ -14,23 +15,13 @@ const subheadingsData = {
   ],
   2: [
     {
-      title: "2016 Masters Degree",
+      title: "2020 Diploma Degree",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2014 Bachelors Degree",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            The State Civil Aviation Agency under the Cabinet of Ministers of
+            the Kyrgyz Republic is a civil aviation agency unique in its profile
+            December 7, 1944 (the Chicago Convention of 1944).
           </p>
         </>
       ),
@@ -38,34 +29,21 @@ const subheadingsData = {
   ],
   3: [
     {
-      title: "2022 Front End Developer",
+      title: "2020 Front End Developer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+            Front End Developer at The State Civil Aviation Agency of Kyrgyz Republic from 2018 - 2020
           </p>
         </>
       ),
     },
     {
-      title: "2020 UX Designer",
+      title: "2022 Web Developer",
       content: (
         <>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
-          </p>
-        </>
-      ),
-    },
-    {
-      title: "2017 IT Consultant",
-      content: (
-        <>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Freelance web developer, I've navigated the ever-evolving digital landscape since 2022  
           </p>
         </>
       ),
