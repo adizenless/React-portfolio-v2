@@ -3,7 +3,7 @@
   display: flex;
   align-items: flex-start;
   top: 3rem;
-  gap: 1.5625rem;
+  /* gap: 1.5625rem; */
   left: 50%;
 }
 
@@ -37,6 +37,7 @@ a {
 
 .nav-link {
   opacity: 0.7;
+  margin: 0 15px;
 }
 
 .nav-link:hover {

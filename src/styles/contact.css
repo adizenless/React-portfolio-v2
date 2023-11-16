@@ -95,10 +95,12 @@ label {
   }
   form {
     width: 100%;
+    gap: 0;
   }
   input,
   #message {
     width: 92%;
+    margin: 0.8rem 0;
   }
   .success-message p {
     padding: 0 0.5rem;
